@@ -1,6 +1,6 @@
 ## Welcome
 
-I'm **Kyro**, a **Malware** and **Game Hacking** developer.
+I'm **Kyro**, a **Malware** and **Game Hacking** Developer. I do **Reverse Engineering** and **Malware Analysis**.
 
 ---
 
