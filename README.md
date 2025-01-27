@@ -1,6 +1,6 @@
 ## Hello 
 
-I'm **Kyro**, a malware and game hacking developer.
+I'm **Kyro**, a **Malware** and **Game Hacking** developer.
 
 ---
 
